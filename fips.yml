@@ -1,0 +1,11 @@
+#
+# fips-simde
+#
+---
+
+exports:
+    header-dirs: [ simde ]
+    defines : 
+      SIMDE_ENABLE_NATIVE_ALIASES : 1
+
+
